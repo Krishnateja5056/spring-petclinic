@@ -22,7 +22,7 @@ ext.webjarsBootstrapVersion = "5.2.3"
 
 sonar {
   properties {
-    property "sonar.projectKey", "hello"
+    property "sonar.projectKey", "test"
   }
 }
 
